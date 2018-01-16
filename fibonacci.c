@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(int argc, char const *argv[]) {
+
+	int n, primerNum = 0, segundoNum = 1, sigNumero, c;
 
   printf("Introduce la cantidad a imprimir\n");
   scanf("%s", &n);
